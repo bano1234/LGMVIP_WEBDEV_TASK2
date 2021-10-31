@@ -1,0 +1,78 @@
+.navhead{
+  float: left;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+body {
+  background-image: url("img/img.png");
+}
+button {
+  font-weight: bold;
+  padding: 25px;
+  margin-right: 40px;
+  position: relative;
+  top: 30px;
+  float: right;
+  border-radius: 5px;
+  outline-color: black;
+  outline-width: 3px;
+  background: rgb(219, 172, 15);
+  color: black;
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+  font-style: bold;
+  font-size: 30px;
+}
+
+
+
+nav {
+  color: #191970;
+  background-attachment: fixed;
+  background-color: rgba(255, 255, 255, 0.63);
+  height: 150px;
+}
+.loader {
+  margin: 0 auto;
+  width: 400px;
+  height: 400px;
+}
+.avatar {
+  margin-bottom: 25px;
+  width: 200px;
+  height: 230px;
+}
+#main {
+  padding: 14px 50px;
+  margin: 0 auto;
+  display: none;
+}
+
+.info {
+  width: 230px;
+  margin: 4px;
+  margin-top: 120px;
+  text-align: center;
+  font-family: bold;
+  padding: 15px;
+  border-radius: 20px;
+  border: 3px solid #1a1616;
+  color: white;
+}
+.info:hover {
+
+  border: 3px solid #f0ce11;
+}
+.data1 {
+  
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+.data {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+}
